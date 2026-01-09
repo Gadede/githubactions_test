@@ -32,6 +32,9 @@ const count = ref(0)
     >.
   </p>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
+
+  <p class="read-the-docs"> Click on Dr Justice + Richy CI/CD </p>
+  
 </template>
 
 <style scoped>
